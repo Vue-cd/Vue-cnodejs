@@ -5,8 +5,7 @@
 ## 当前版本采用vue-cli搭建的版本。 非vue-cli的版本请看分支：not-vue-cli
 
 -------
-如果你觉得该项目对你有帮助，就打赏作者一杯咖啡吧。
-![pic](https://segmentfault.com/img/bVqVEt)
+
 
 ###安装
 
